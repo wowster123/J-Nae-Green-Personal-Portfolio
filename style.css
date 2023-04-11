@@ -8,9 +8,9 @@
 }
 
 body {
-  /* font-family: 'Epilogue', sans-serif; */
+  /* font-family: 'Epilogue', 'fraunces'; */
   font-family: 'Fraunces', 'Epilogue';
-   background-color: #f6fff8;
+   background-color: #f3fcf5;
 }
 
 html {
@@ -29,6 +29,7 @@ a,
 }
 
 /* DESKTOP NAV */
+
 
 nav,
 .nav-links {
@@ -123,6 +124,7 @@ a:hover {
 .menu-links.open {
   max-height: 300px;
 }
+
 
 .hamburger-icon.open span:first-child {
   transform: rotate(45deg) translate(10px, 5px);
@@ -290,9 +292,6 @@ section {
   display: flex;
 }
 
-.about-pic {
-  border-radius: 2rem;
-}
 
 .arrow {
   position: absolute;

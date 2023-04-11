@@ -15,6 +15,7 @@
     #hamburger-nav {
       display: flex;
     }
+    
     #experience,
     .experience-details-container {
       margin-top: 2rem;
@@ -31,7 +32,7 @@
       height: fit-content;
     }
     section {
-      margin: 0 5%;
+      margin:  5%;
     }
     .section__pic-container {
       width: 275px;
@@ -42,6 +43,7 @@
       margin-top: 0;
     }
   }
+  
   
   @media screen and (max-width: 600px) {
     #contact,
